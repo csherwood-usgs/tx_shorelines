@@ -14,3 +14,11 @@ Data is from https://cmgds.marine.usgs.gov/data-releases/datarelease/10.5066-P1W
 
 `explore_DSAS_geojason.ipynb` - Reads some example `.geojson` files exported from DSAS to use in prompts that generated `export...`  
 
+### Other files
+
+`TX_transect_tidally_corrects.asv` - Source data from USGS data release.  
+
+`place_names_with_latlon.csv` - Location of selected place names for labelling figures.   
+
+`ibtracs.NA.list.v04r01.csv` - Tropical cyclone database for North America.
+
